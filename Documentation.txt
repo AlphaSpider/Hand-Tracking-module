@@ -1,0 +1,7 @@
+Imported packages
+Initialised camera capture
+Tested camera
+Setup camera parameters
+
+Imported our Hand tracking module, created it''s object detector and passed the img as parameter to findHands
+and we accept that img as it return so that's why we defined "img=" as in: img=detector.findHands(img)
